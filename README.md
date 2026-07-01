@@ -53,12 +53,15 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
+  <a href="https://github.com/JuanTrezza">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanTrezza&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanTrezza&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  </a>
+</div>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=JuanTrezza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0F14&title_color=8B5CF6&icon_color=EC4899&text_color=F8FAFC)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanTrezza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0F14&title_color=8B5CF6&text_color=F8FAFC)
-
-![Streak](https://streak-stats.demolab.com?user=JuanTrezza&theme=tokyonight&hide_border=true&background=0F0F14&stroke=8B5CF6&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6)
+<div align="center">
+  
+![Streak](https://streak-stats.demolab.com?user=JuanTrezza&theme=radical&hide_border=true)
 
 </div>
 
