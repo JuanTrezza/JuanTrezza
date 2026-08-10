@@ -78,8 +78,8 @@ const juan = {
 <div align="center">
   
 <a href="https://github.com/JuanTrezza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanTrezza&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&card_width=445" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanTrezza&layout=compact&langs_count=8&theme=radical&hide_border=true&card_width=445" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JuanTrezza&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuanTrezza&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 </a>
 
 <br/><br/>
@@ -88,7 +88,7 @@ const juan = {
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=JuanTrezza&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JuanTrezza&theme=radical&no-frame=true&column=6&margin-w=8" alt="Trophies"/>
 
 <br/><br/>
 
