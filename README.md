@@ -88,10 +88,6 @@ const juan = {
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=JuanTrezza&theme=radical&no-frame=true&column=6&margin-w=8" alt="Trophies"/>
-
-<br/><br/>
-
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JuanTrezza&bg_color=0d1117&color=8b5cf6&line=ec4899&point=f8fafc&area=true&hide_border=true&custom_title=Actividad%20de%20contribuciones" alt="Activity Graph"/>
 
 </div>
